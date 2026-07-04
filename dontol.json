@@ -1,0 +1,7 @@
+[
+  { "id": "lokal", "name": "NASIONAL" },
+  { "id": "live", "name": "LIVE EVENT 1" },
+  { "id": "live2", "name": "LIVE EVENT 2" },
+  { "id": "live3", "name": "LIVE EVENT 3" },
+  { "id": "mov", "name": "MOVIES" }
+]
