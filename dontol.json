@@ -4,5 +4,7 @@
   { "id": "live2", "name": "LIVE EVENT 2" },
   { "id": "live3", "name": "LIVE EVENT 3" },
   { "id": "live4", "name": "MAXSTREAM WC26" },
-  { "id": "mov", "name": "MOVIES" }
+  { "id": "live5", "name": "COLA LIVE" },
+  { "id": "mov", "name": "MOVIES" },
+  { "id": "hot51", "name": "LIVE HOT51" }
 ]
