@@ -6,5 +6,6 @@
   { "id": "live2", "name": "LIVE EVENT 2" },
   { "id": "live3", "name": "LIVE EVENT 3" },
   { "id": "live4", "name": "LIVE EVENT 4" },
+  { "id": "live5", "name": "LIVE EVENT 5" },
   { "id": "mov", "name": "MOVIES" }
 ]
