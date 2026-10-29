@@ -1,12 +1,12 @@
 [
   { "id": "lokal", "name": "NASIONAL" },
   { "id": "sports", "name": "SPORTS" },
-  { "id": "digital", "name": "TV DIGITAL" },
-  { "id": "live", "name": "LIVE EVENT 1" },
-  { "id": "live2", "name": "LIVE EVENT 2" },
-  { "id": "live3", "name": "LIVE EVENT 3" },
-  { "id": "live4", "name": "LIVE EVENT 4" },
-  { "id": "live5", "name": "LIVE EVENT 5" },
+  { "id": "digital", "name": "LIVE VIDIO" },
+  { "id": "live", "name": "LIVE VIDIO 2" },
+  { "id": "live2", "name": "LIVE MIX" },
+  { "id": "live3", "name": "LIVE SPOTV NOW" },
+  { "id": "live4", "name": "LIVE VISION+" },
+  { "id": "live5", "name": "LIVE GADO2" },
   { "id": "mov", "name": "VOD VIDIO" },
   { "id": "mov2", "name": "VOD WETV" }
 ]
